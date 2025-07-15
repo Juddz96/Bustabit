@@ -7,7 +7,7 @@
     "async": "~0.7.0",
     "better-assert": "~1.0.0",
     "bitcoin": "~2.1.2",
-    "bitcoinjs-lib": "^2.2.0",
+    "bitcoinjs-lib": "^3.0.0",
     "debug": "^2.2.0",
     "pg": "^4.5.1"
   },
